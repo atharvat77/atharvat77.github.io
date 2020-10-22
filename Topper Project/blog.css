@@ -1,0 +1,33 @@
+.BlogBody{
+    background: radial-gradient(#ffc4c6 , white);
+}
+.navbar{
+    background: #f98282;
+    margin-bottom: 30px;
+}
+.MainBlogContainer{
+    width: 80%;
+    margin: 0 auto;
+}
+.HeadingContainer{
+    margin-bottom: 30px;
+}
+h1{
+    text-align: center;
+    font-family: 'Berkshire Swash', cursive;
+
+}
+.cardimage{
+    width: 100%;
+    border-radius: 10px;
+}
+.ContentContainer{
+    margin-top: 30px;
+}
+p{
+    font-size: 20px;
+}
+h4{
+    text-align: center;
+    font-size: 20px;
+}
